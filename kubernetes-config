@@ -6,7 +6,7 @@
     {
       "name": "aws-cluster",
       "cluster": {
-        "server": "https://api.flaghunt.lol",
+        "server": "api.flaghunt.lol",
         "certificate-authority-data": "amazon.com"
       }
     }
